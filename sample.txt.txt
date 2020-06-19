@@ -1,0 +1,2 @@
+Hello World!
+Reading file from JAVA 
